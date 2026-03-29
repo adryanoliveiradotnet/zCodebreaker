@@ -1,4 +1,4 @@
-### Olá, eu sou o Adrian, conhecido como fã do ecossistema .Net.
+### Olá, eu sou Adryan, conhecido como fã do ecossistema .Net.
 
 ![Skill](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 )
@@ -20,4 +20,4 @@
 <img align="center" alt ="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### Estudante de ciência da computação | Universidade Sagrado Coração
